@@ -1,0 +1,24 @@
+2018-02-23 07:49:42,099 [main] INFO LogDemo - firefox Opened
+2018-02-23 07:49:42,176 [main] INFO LogDemo - firefox maximized
+2018-02-23 07:49:44,632 [main] INFO LogDemo - firefox launched
+2018-02-23 07:49:45,862 [main] INFO LogDemo - firefox click on seargh button
+2018-02-23 07:49:45,862 [main] INFO LogDemo - firefox capture the text
+2018-02-23 07:49:46,674 [main] INFO LogDemo - firefox title matched
+2018-02-23 08:34:03,116 [main] INFO LogDemo - firefox Opened
+2018-02-23 08:34:03,154 [main] INFO LogDemo - firefox maximized
+2018-02-23 08:34:05,291 [main] INFO LogDemo - firefox launched
+2018-02-23 08:34:06,412 [main] INFO LogDemo - firefox click on seargh button
+2018-02-23 08:34:06,413 [main] INFO LogDemo - firefox capture the text
+2018-02-23 08:34:07,249 [main] INFO LogDemo - firefox title matched
+2018-02-23 15:31:55,624 [main] INFO LogDemo - firefox Opened
+2018-02-23 15:31:55,712 [main] INFO LogDemo - firefox maximized
+2018-02-23 15:31:58,331 [main] INFO LogDemo - firefox launched
+2018-02-23 15:31:58,690 [main] INFO LogDemo - firefox click on seargh button
+2018-02-23 15:31:58,699 [main] INFO LogDemo - firefox capture the text
+2018-02-23 15:31:59,977 [main] INFO LogDemo - firefox title matched
+2018-02-23 16:33:27,340 [main] INFO LogDemo - firefox Opened
+2018-02-23 16:33:27,471 [main] INFO LogDemo - firefox maximized
+2018-02-23 16:33:29,713 [main] INFO LogDemo - firefox launched
+2018-02-23 16:33:30,003 [main] INFO LogDemo - firefox click on seargh button
+2018-02-23 16:33:30,014 [main] INFO LogDemo - firefox capture the text
+2018-02-23 16:33:31,628 [main] INFO LogDemo - firefox title matched
